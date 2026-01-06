@@ -1,0 +1,13 @@
+// 476. Number Complement
+
+class Solution {
+public:
+    int findComplement(int num) {
+        int mask = ~0;
+
+        while (num & mask) {
+            mask <<= 1;
+        }
+        return ~num & ~mask;
+    }
+};
