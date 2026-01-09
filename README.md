@@ -1,4 +1,4 @@
- 🧠 C-PLUS-PLUS — Learn & Practice C++
+ ## **🧠 C-PLUS-PLUS — Learn & Practice C++**
 
 Welcome to the **C-PLUS-PLUS** repository!  
 This collection contains **C++ code examples, practice problems, and concept demos** as I learn and build my skills in the C++ programming language.
@@ -31,18 +31,18 @@ To run the examples locally:
 ```bash
 git clone https://github.com/vaibhavmangla07/C-PLUS-PLUS.git
 ```
-Navigate into the folder:
+2. **Navigate into the folder:**
 
 ```bash
 cd C-PLUS-PLUS
 ```
-Compile a C++ file:
+3. **Compile a C++ file:**
 
 ```bash
 
 g++ -std=c++17 filename.cpp -o output
 ```
-Run the program:
+4. **Run the program:**
 
 ```bash
 Copy code
@@ -50,7 +50,7 @@ Copy code
 ```
 You can use any C++ compiler or IDE (like VS Code, Code::Blocks, CLion, etc.)
 
-📂 Folder Structure
+**📂 Folder Structure**
 ```
 C-PLUS-PLUS/
 ├── 01basics/
